@@ -1,0 +1,49 @@
+{
+    "microscope_name": {
+        "value": "FEI TALOS",
+        "units": null
+    },
+    "microscope_model": {
+        "value": "Arctica",
+        "units": null
+    },
+    "microscope_detector": {
+        "value": "Falcon 4i",
+        "units": null
+    },
+    "pixel_size": {
+        "value": 0.85,
+        "units": "Å/px"
+    },
+    "voltage": {
+        "value": 200,
+        "units": "kV"
+    },
+    "spherical_aberration": {
+        "value": 2.7,
+        "units": "mm"
+    },
+    "nominal_magnification": {
+        "value": 60000,
+        "units": null
+    },
+    "dose_per_frame": {
+        "value": 0.54,
+        "units": "e/Å²"
+    },
+    "n_micrographs": {
+        "value": 1932,
+        "units": null
+    },
+    "defocus_range": {
+        "value": {
+            "min": 0.09,
+            "max": 3.45
+        },
+        "units": "µm"
+    },
+    "resolution_estimated": {
+        "value": 3.4,
+        "units": "Å"
+    }
+}
